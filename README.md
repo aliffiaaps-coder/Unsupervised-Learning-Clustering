@@ -1,4 +1,3 @@
-# Unsupervised-Learning-Clustering
 # Airline Customer Value Analysis
 
 **Dataset** : [source](https://github.com/aliffiaaps-coder/Unsupervised-Learning-Clustering/blob/main/flight_train.csv) <br>
@@ -48,9 +47,9 @@ The customer segmentation model used in this business is LRFMC (*Length, Recency
 
 ## 🕵 Business Insight 
 Based on the LRFMC analysis, the airline’s customers were grouped into the following three customer behavior clusters:
-- Cluster 0 (Churn Risk): Passive customers at high risk of switching to a competitor airline, for 22.34% of the total customers
-- Cluster 1 (Potential Loyal): Moderately active middle-class customers who fly frequently constitute the largest group, for 66.84% of total customers
-- Cluster 2 (VIP): High-end frequent flyers are a minority, for 10.82% of total customers
+- **Cluster 0 (Churn Risk:** Passive customers at high risk of switching to a competitor airline, for 22.34% of the total customers
+- **Cluster 1 (Potential Loyal):** Moderately active middle-class customers who fly frequently constitute the largest group, for 66.84% of total customers
+- **Cluster 2 (VIP):** High-end frequent flyers are a minority, for 10.82% of total customers
 
 ## 📌 Business Recommendations
 - Launch a membership activation campaign for customers at Risk Churn (Win-Back Strategy)
