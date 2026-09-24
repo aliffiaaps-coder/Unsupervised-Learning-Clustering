@@ -1,4 +1,4 @@
-# Airline Customer Value Analysis
+# 🛩️ Airline Customer Value Analysis
 
 **Dataset** : [source](https://github.com/aliffiaaps-coder/Unsupervised-Learning-Clustering/blob/main/flight_train.csv) <br>
 **Notebook** : [view](https://github.com/aliffiaaps-coder/Unsupervised-Learning-Clustering/blob/main/study_case_clustering.ipynb)<br>
